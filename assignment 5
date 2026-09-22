@@ -38,6 +38,7 @@ def lcs(X, Y):
 X = "AGGTAB"
 Y = "GXTXAYB"
 
+
 length, subsequence = lcs(X, Y)
 
 print("First Sequence :", X)
